@@ -10,6 +10,9 @@ var bike = {
     }
 };
 
+
+
+
 console.log(bike.getInfo());
 
 document.getElementById("heads").innerHTML="Bike Details -Object Literal Pettern";
